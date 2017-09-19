@@ -15,7 +15,7 @@
 	For numbers which are multiples of both, print "FizzBuzz".
 **4. Factorial digit sum**
 	
-	Write a function that calculates the sum of the digits of the factorial of a numver. n! means n x(n -1)...x 3 x 2 x 1. 
+	Write a function that calculates the sum of the digits of the factorial of a number. n! means n x(n -1)...x 3 x 2 x 1. 
 	For example, 10! = 10 x 9 x 8 ... x 3 x 2 x 1 = 3628800, and the sum of the digits in the number 10! is 3 + 6 + 2 + 8 + 8 + 0 + 0 = 27. 
 	Find the sum of the digits in the number 100!
 **5. Guessing Game**
