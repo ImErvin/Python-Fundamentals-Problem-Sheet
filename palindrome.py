@@ -4,7 +4,8 @@
 def palindromeCheck(someString):
     # Local variable nonReversedString is a list of characters that make up the string "someString"
     nonReversedString = [i for i in someString]
-    # Local variable reversedString is a list of characters that make up the string "someString"  
+    # Local variable reversedString is a list of characters that make up the string "someString"
+    # but looped over backwards. Adapted from https://stackoverflow.com/questions/869885/loop-backwards-using-indices-in-python
     reversedString = [someString[i] for i in range(len(nonReversedString)-1, -1, -1)]
     # If the two lists above equal, then it's a palindrome
     if(nonReversedString == reversedString):km
