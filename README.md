@@ -1,7 +1,29 @@
 ## Python Fundamentals Problem Sheet 
 
-This is a simple python fundamentals problem sheet. The aim of this problem sheet is to catch up with some python syntax and solve some
-coding problems using python.
+This is a simple python fundamentals problem sheet. The aim of this problem sheet is to catch up oh some python syntax and solve some coding problems using python. This problem sheet was created by [Ian Mcloughlin](https://github.com/ianmcloughlin) as part of our emerging technologies module in college.
+
+You can find my solutions to each of these problems in this repository.
+
+### How to use this repository
+
+1. Ensure you have Python 3.x and Git installed locally.
+2. Enter the following commands into your command line.
+```bash
+# Change directory to anywhere you desire
+cd anywhere..
+
+# Clone this repository using git
+git clone https://github.com/ImErvin/Python-Problem-Sheet.git
+cd Python-Problem-Sheet
+
+# Run any of the solutions
+py hello-world.py
+py current-time.py
+# and so on..
+
+```
+
+### Problem Sheet Questions
 
 **1. Hello, World!**
 
