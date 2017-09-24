@@ -1,3 +1,6 @@
+# Guessing game written by Ervin Mamutov - github.com/imervin
+
+# Import random to create a random number
 import random
 
 secretNumber = random.randint(0,1000) # The secret number is generated randomly every game

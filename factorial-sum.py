@@ -1,3 +1,5 @@
+# Factorial sum written by Ervin Mamutov - github.com/imervin
+
 # Function factorialSum takes parameter n
 def factorialSum(n):
     # myList is a list with values between the parameter n and 0.

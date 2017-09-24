@@ -1,4 +1,7 @@
-import random # Import the random library
+# Smallest/largest written by Ervin Mamutov - github.com/imervin
+
+# Import random to generate random lists
+import random 
 
 # Function smallestLargest takes a list as a parameter
 def smallestLargest(someList):

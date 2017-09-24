@@ -1,3 +1,5 @@
+# list sort written by Ervin Mamutov - github.com/imervin
+
 import random
 
 # mergeList function takes 2 lists as parameters

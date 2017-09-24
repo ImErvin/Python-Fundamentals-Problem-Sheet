@@ -1,5 +1,8 @@
 ## Python Fundamentals Problem Sheet 
 
+This is a simple python fundamentals problem sheet. The aim of this problem sheet is to catch up with some python syntax and solve some
+coding problems using python.
+
 **1. Hello, World!**
 
 	Write a program that prints "Hello, World!" to the screen.
