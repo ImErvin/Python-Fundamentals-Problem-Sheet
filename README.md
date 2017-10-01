@@ -4,14 +4,6 @@ This is a simple python fundamentals problem sheet. The aim of this problem shee
 
 You can find my solutions to each of these problems in this repository.
 
-### What is Python?
-Python is a programming language that was created by Guido van Rossum and released in 1991. Different to the other common high-level programming languages, Python uses whitespace indentation to delmit blocks (off-side rule).
-
-### Why Python?
-Python is massively trending at the moment and the objective of our "emerging technologies" module is to study the trending technologies.
-
-Not only that, but popular neural network training libraries such as TensorFlow use python to express and control training models.
-
 ### How to use this repository
 
 1. Ensure you have Python 3.x and Git installed locally.
@@ -30,6 +22,14 @@ py current-time.py
 # and so on..
 
 ```
+
+### What is Python?
+Python is a programming language that was created by Guido van Rossum and released in 1991. Different to the other common high-level programming languages, Python uses whitespace indentation to delmit blocks (off-side rule).
+
+### Why Python?
+Python is massively trending at the moment and the objective of our "emerging technologies" module is to study the trending technologies.
+
+Not only that, but popular neural network training libraries such as TensorFlow use python to express and control training models.
 
 ### Problem Sheet Questions
 
